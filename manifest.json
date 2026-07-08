@@ -1,0 +1,17 @@
+{
+  "name": "AriReady — BTS Ready 🎤",
+  "short_name": "AriReady",
+  "description": "Your personal BTS concert transformation coach",
+  "start_url": "https://sakshigupta0.github.io/Ariready/index.html",
+  "scope": "https://sakshigupta0.github.io/Ariready/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "orientation": "portrait-primary",
+  "categories": ["health","fitness","lifestyle"],
+  "icons": [
+    {"src":"https://sakshigupta0.github.io/Ariready/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"https://sakshigupta0.github.io/Ariready/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ],
+  "prefer_related_applications": false
+}
